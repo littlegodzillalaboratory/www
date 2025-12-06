@@ -1,13 +1,15 @@
-![Little Godzilla Logo](images/logo.png)
+![Little Godzilla Laboratory Logo](images/logo.png)
 
-# Little Godzilla
+# Little Godzilla Laboratory
 
-Little Godzilla is a collection of fun things that I play together with my son.
+A collection of fun games & entertainment that I play together with my son.
 
 ### Minecraft
 
-* [Minecraft Waterland](https://github.com/cliffano/minecraft-waterland) - A Minecraft adventure project with my son, we run our own Minecraft server at home
-* [Minecraft NPC](https://github.com/cliffano/minecraft-npc) - Configurable Minecraft bot used for running NPCs in a game
+* [![Build Status](https://github.com/cliffano/minecraft-waterland/workflows/CI/badge.svg)](https://github.com/cliffano/minecraft-waterland/actions?query=workflow%3ACI) [Minecraft Waterland](https://github.com/cliffano/minecraft-waterland)
+* [![Build Status](https://github.com/cliffano/minecraft-npc/workflows/CI/badge.svg)](https://github.com/cliffano/minecraft-npc/actions?query=workflow%3ACI) [Minecraft NPC](https://github.com/cliffano/minecraft-npc)
+* [![Build Status](https://github.com/littlegodzillalaboratory/ansible-role-minecraft-java/workflows/CI/badge.svg)](https://github.com/littlegodzillalaboratory/ansible-role-minecraft-java/actions?query=workflow%3ACI) [Ansible Role Minecraft Java](https://github.com/littlegodzillalaboratory/ansible-role-minecraft-java)
+* [![Build Status](https://github.com/littlegodzillalaboratory/ansible-role-fabricmc/workflows/CI/badge.svg)](https://github.com/littlegodzillalaboratory/ansible-role-fabricmc/actions?query=workflow%3ACI) [Ansible Role FabricMC](https://github.com/littlegodzillalaboratory/ansible-role-fabricmc)
 
 ### Pokémon
 
