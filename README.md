@@ -10,3 +10,8 @@
 # littlegodzillalaboratory.github.io
 
 Website for Little Godzilla Laboratory project at [https://littlegodzillalaboratory.github.io](https://littlegodzillalaboratory.github.io).
+
+<!-- BEGIN:DEVELOPERS_GUIDE -->
+[Developer's Guide](https://littlegodzillalaboratory.github.io/developers-guide-website.html)
+<!-- END:DEVELOPERS_GUIDE -->
+
