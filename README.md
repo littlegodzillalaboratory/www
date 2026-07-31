@@ -14,4 +14,3 @@ Website for Little Godzilla Laboratory project at [https://littlegodzillalaborat
 <!-- BEGIN:DEVELOPERS_GUIDE -->
 [Developer's Guide](https://littlegodzillalaboratory.github.io/developers-guide-website.html)
 <!-- END:DEVELOPERS_GUIDE -->
-
